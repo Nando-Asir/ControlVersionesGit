@@ -1,4 +1,4 @@
-# Control de Versiones Git
+# Control de Versiones Git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git Logo" width="80"/>
 
 ---
 
@@ -14,7 +14,7 @@
 
 ### 3. 🌐 [Lenguaje de marcas: Markdown](markdown.md)
 
-### 4. 🗂️ [Repositorio: Github](github.md)
+### 4. 📦 [Repositorio: Github](github.md)
 
 ### 5. 🔀 [Conceptos básicos Git/Github](conceptos.md)
 
