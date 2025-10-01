@@ -1,4 +1,4 @@
-# Control de Versiones Git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git Logo" width="20"/>
+# Control de Versiones Git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git Logo" width="40"/>
 
 ---
 
