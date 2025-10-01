@@ -1,4 +1,4 @@
-# ControlVersionesGit
+# Control de Versiones Git
 
 ## Índice
 
