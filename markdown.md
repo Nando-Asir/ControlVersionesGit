@@ -11,7 +11,7 @@
 
 ---
 
-### 🔧 Editores comunes de Markdown
+### Editores comunes de Markdown
 - **MarkdownPad** (Windows) – Vista previa en tiempo real, exportación a HTML/PDF.  
 - **UberWriter** (Linux) – Minimalista, soporte de MathJax, exportación múltiple.  
 - **Visual Studio Code** (Multiplataforma) – Editor de código con extensiones, vista previa, integración con Git.  
