@@ -2,7 +2,7 @@
 
 ---
 
-![git](img/)
+![git](img/git.png)
 
 ---
 
