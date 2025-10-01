@@ -1,5 +1,5 @@
 ## Autores
 
-- Fernando Duran
-- Miguell Hillert
-- Javier Rocha
+- [Fernando Duran](https://github.com/Nando-Asir)
+- [Miguell Hillert](https://github.com/MiguelHillert)
+- [Javier Rocha](https://github.com/JavierRochaS)
