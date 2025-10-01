@@ -1,7 +1,7 @@
 # [Repositorio: Github](README.md)
 
-<img src="img/github.jpg" alt="Github" width="400"
-height="250"/>
+<p align="center"><img src="img/github.jpg" alt="Github" width="450"
+height="350"/></p>
 
 - **Plataforma**: Permite alojar y compartir código de aplicaciones.  
 - **Propiedad**: Adquirida por Microsoft en junio de 2018.  
