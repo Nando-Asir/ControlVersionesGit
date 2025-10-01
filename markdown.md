@@ -1,6 +1,6 @@
 # [Lenguaje de Marcas: Markdown](README.md)
 
-<p align="center"><img src="img/markdown.png" alt="razer" width="550" height="350"></p>
+<p align="center"><img src="img/markdown.png" alt="razer" width="450" height="350"></p>
 
 ---
 
