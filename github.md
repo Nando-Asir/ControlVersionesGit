@@ -1,6 +1,6 @@
 
 # Repositorio: Github
-
+![linux](img/github.png) 
 - **Plataforma**: Permite alojar y compartir código de aplicaciones.  
 - **Propiedad**: Adquirida por Microsoft en junio de 2018.  
 - **Tecnología**: Utiliza **Git**, el sistema de control de versiones creado por Linus Torvalds.  
