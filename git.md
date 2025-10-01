@@ -2,11 +2,11 @@
 ## ❓ ¿Qué es el control de versiones?
 El **control de versiones** es un sistema que registra los cambios realizados sobre uno o varios archivos a lo largo del tiempo.  
 Permite:  
-- 🔄 Recuperar versiones anteriores.  
-- ⏪ Revertir cambios o proyectos enteros.  
-- 📊 Comparar modificaciones.  
-- 👤 Saber quién hizo cada cambio y cuándo.  
-- 🗂️ Recuperar archivos perdidos o dañados fácilmente.  
+-  Recuperar versiones anteriores.  
+-  Revertir cambios o proyectos enteros.  
+-  Comparar modificaciones.  
+-  Saber quién hizo cada cambio y cuándo.  
+-  Recuperar archivos perdidos o dañados fácilmente.  
 
 ---
 
