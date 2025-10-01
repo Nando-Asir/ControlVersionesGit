@@ -1,6 +1,6 @@
 # [Sistemas de control de versiones: Git](README.md)
 
-<p align="center"><img src="img/vcs.png" alt="vcs" width="550" height="350"></p>
+<p align="center"><img src="img/vcs.png" alt="vcs" width="450" height="350"></p>
 
 ## ❓ ¿Qué es el control de versiones?
 El **control de versiones** es un sistema que registra los cambios realizados sobre uno o varios archivos a lo largo del tiempo.  
