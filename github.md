@@ -1,6 +1,6 @@
 # [Repositorio: Github](README.md)
 
-<p align="center"><img src="img/github.jpg" alt="Github" width="450"
+<p align="center"><img src="img/github.jpg" alt="Github" width="550"
 height="350"/></p>
 
 - **Plataforma**: Permite alojar y compartir código de aplicaciones.  
