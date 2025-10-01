@@ -1,5 +1,6 @@
 # Control de Versiones Git
 
+---
 ## Índice
 
 ### 1. [Introducción](introduccion.md)
