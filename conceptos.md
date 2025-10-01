@@ -1,8 +1,9 @@
-#  Git y GitHub: Conceptos y Comandos Básicos
+# [Git y GitHub: Conceptos y Comandos Básicos](README.md)
+
 <img src="img/concepto.JPG" alt="Github" width="400"
 height="250"/>
----
 
+---
 ##  Repositorio
 - Carpeta que guarda el proyecto (código, documentación, ejemplos).  
 - Tipos: 
