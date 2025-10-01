@@ -1,5 +1,6 @@
 #  Git y GitHub: Conceptos y Comandos Básicos
-
+<img src="img/conceptos.jpg" alt="Github" width="400"
+height="250"/>
 ---
 
 ##  Repositorio
