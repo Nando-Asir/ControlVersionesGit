@@ -1,7 +1,7 @@
 # [Git y GitHub: Conceptos y Comandos Básicos](README.md)
 
 ---
-<img src="img/git-github.webp" alt="Github"/>
+<p align="center"><img src="img/git-github.webp" alt="Github"/></p>
 
 ---
 ##  Repositorio
