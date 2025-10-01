@@ -1,4 +1,4 @@
-## [Sistemas de control de versiones: Git](README.md)
+# [Sistemas de control de versiones: Git](README.md)
 
 ## ❓ ¿Qué es el control de versiones?
 El **control de versiones** es un sistema que registra los cambios realizados sobre uno o varios archivos a lo largo del tiempo.  
