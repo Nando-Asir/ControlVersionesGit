@@ -1,6 +1,11 @@
 # Control de Versiones Git
 
 ---
+
+![git](img/)
+
+---
+
 ## Índice
 
 ### 1. [Introducción](introduccion.md)
