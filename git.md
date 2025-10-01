@@ -2,7 +2,7 @@
 
 <p align="center"><img src="img/vcs.png" alt="vcs" width="450" height="350"></p>
 
-## ❓ ¿Qué es el control de versiones?
+## ¿Qué es el control de versiones?
 El **control de versiones** es un sistema que registra los cambios realizados sobre uno o varios archivos a lo largo del tiempo.  
 Permite:  
 -  Recuperar versiones anteriores.  
@@ -13,7 +13,7 @@ Permite:
 
 ---
 
-## 🖥️ 2. Sistemas de control de versiones locales
+## Sistemas de control de versiones locales
 
 - **VCS locales**:  
   Guardaban cambios en una base de datos simple en el propio equipo.
