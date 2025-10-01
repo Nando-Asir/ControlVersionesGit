@@ -2,7 +2,7 @@
 
 ---
 
-![git](img/git.png)
+<p align="center"><img src="img/git.png" alt="git" width="550" height="350"></p>
 
 ---
 
