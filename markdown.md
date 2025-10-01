@@ -1,5 +1,4 @@
 # [Lenguaje de Marcas: Markdown](README.md)
----
 
 - **Markdown** es un lenguaje de marcado creado en 2004 por **John Gruber**.  
 - Permite aplicar **formato a texto plano** de manera sencilla y convertirlo fácilmente a **HTML**.  
