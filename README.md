@@ -12,6 +12,6 @@
 
 ### 5. [Conceptos básicos Git/Github](conceptos.md)
 
-### [Referencias](referencias.md)
+### -. [Referencias](referencias.md)
 
-### [Autores](autores.md)
+### -. [Autores](autores.md)
