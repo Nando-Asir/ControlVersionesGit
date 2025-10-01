@@ -1,5 +1,7 @@
 # [Lenguaje de Marcas: Markdown](README.md)
 
+<p align="center"><img src="img/markdown.png" alt="razer" width="550" height="350"></p>
+
 - **Markdown** es un lenguaje de marcado creado en 2004 por **John Gruber**.  
 - Permite aplicar **formato a texto plano** de manera sencilla y convertirlo fácilmente a **HTML**.  
 - Su objetivo principal es mantener un **texto legible** al mismo tiempo que estructurado.  
