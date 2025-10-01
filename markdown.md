@@ -5,6 +5,7 @@
 - Su objetivo principal es mantener un **texto legible** al mismo tiempo que estructurado.  
 - Se utiliza mucho en documentación técnica y archivos **README** en repositorios.  
 
+---
 
 ### 🔧 Editores comunes de Markdown
 - **MarkdownPad** (Windows) – Vista previa en tiempo real, exportación a HTML/PDF.  
