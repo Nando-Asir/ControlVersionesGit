@@ -25,3 +25,5 @@ Permite:
   Cada colaborador posee una copia completa del repositorio (ejemplo: **Git**), lo que permite redundancia, recuperación de datos en caso de fallo del servidor y colaboración simultánea.
 
 ---
+
+Siguiente -> [Lenguaje de Marcas: Markdown](markdown.md)
