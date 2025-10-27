@@ -15,4 +15,4 @@ Aprenderemos el flujo Git colaborativo, utilizado por millones de desarrolladore
 
 ---
 
-Siguiente -> Repositorio Git](git.md)
+Siguiente -> [Repositorio Git](git.md)
