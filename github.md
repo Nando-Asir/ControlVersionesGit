@@ -9,3 +9,7 @@ height="350"/></p>
 - **Funciones principales**:  
   - Consultar y descargar diferentes versiones de aplicaciones.  
   - Conectar desarrolladores y usuarios como una red social para colaborar y mejorar proyectos.  
+
+---
+
+Siguiente -> [Conceptos Básicos](conceptos.md)
