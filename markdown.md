@@ -20,3 +20,7 @@
 - **StackEdit.io** (Online) – Editor avanzado con colaboración y soporte MathJax.  
 
 > El editor más recomendado es **Visual Studio Code** por su integración con Git y su facilidad de uso.
+
+---
+
+Siguiente -> [Repositorio: Github](github.md)
